@@ -1,1 +1,0 @@
-picoCTF{yummy_c00kie_power}
